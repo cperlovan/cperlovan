@@ -6,7 +6,7 @@
 <h1>👉<strong>About me</strong></h1>
 
 
-developing web applications has been a passion for me. I enjoy creating and facing new challenges, when I make solutions in my work environment. I have had the opportunity to use several programming languages, but today, after many hours of study, I find Javascript, React, Redux, Express, Sequelize and other technologies that motivate me to create and continue with this wonderful world of programming. programming
+Developing web applications has been a passion for me. I enjoy creating and facing new challenges, when I make solutions in my work environment. I have had the opportunity to use several programming languages, but today, after many hours of study, I find Javascript, React, Redux, Express, Sequelize and other technologies that motivate me to create and continue with this wonderful world of programming. programming
 
 <hr />
 

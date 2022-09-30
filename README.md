@@ -20,7 +20,11 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <hr />
 <h1>👉<strong>Technologies</strong></h1>
 
+- computer   HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js | Git | NodeJS | Express.js |  `
+- PHP | Symfony | Laravel
+- Oracle | Postgresql | MariaDB | Sequelize | Doctrine
 
+   
 <!--
 **cperlovan/cperlovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

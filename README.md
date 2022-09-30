@@ -15,6 +15,12 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <p>✅ www.linkedin.com/in/cperlovan </p>
 <p>✅ github.com/cperlovan </p>
 
+
+
+<hr />
+<h1>👉<strong>Technologies</strong></h1>
+
+
 <!--
 **cperlovan/cperlovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

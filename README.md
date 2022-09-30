@@ -24,13 +24,19 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 - PHP | Symfony | Laravel
 - Oracle | Postgresql | MariaDB | Sequelize | Doctrine
 
-   
+
+![datacenter](https://user-images.githubusercontent.com/21959363/193178554-7c570a7b-b96b-4567-9193-ebb015ee9f17.png)
+
+
+
+
 <!--
 **cperlovan/cperlovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...![datacenter2](https://user-images.githubusercontent.com/21959363/193177793-38e7e32c-13a6-43c7-8ec0-5565ac1bd77a.PNG)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

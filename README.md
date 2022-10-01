@@ -36,7 +36,14 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-cyan?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white">
+<img src="http://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel&logoColor=red">
 <img src="http://img.shields.io/badge/-Symfony-black?style=flat&logo=Symfony&logoColor=white">
+<img src="https://img.shields.io/badge/-Oracle-3C873A?style=flat&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgresSQL-F29111?style=flat&logo=postgresql&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-MariaDB-F1502F?style=flat&logo=MariaDB&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-doctrine-430098?style=flat&logo=dictrine&logoColor=white">
+
+
 
 ![datacenter](https://user-images.githubusercontent.com/21959363/193178554-7c570a7b-b96b-4567-9193-ebb015ee9f17.png)
 

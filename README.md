@@ -11,18 +11,18 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <hr />
 
 <h1><strong>⚡ Find me around the web ⚡</strong></h1>
-<p>✅ cperlovan@gmail.com </p>
-<p>✅ www.linkedin.com/in/cperlovan </p>
-<p>✅ github.com/cperlovan </p>
+<h5>✅ cperlovan@gmail.com </h5>
+<h5>✅ www.linkedin.com/in/cperlovan </h5>
+<h5>✅ github.com/cperlovan </h5>
 
 
 
 <hr />
 <h1>👉<strong>Technologies</strong></h1>
 
-- 💻 &nbsp; HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js |
-- 🛢 &nbsp;  NodeJS | Express.js |Postgresql | Sequelize | MariaDB | Oracle
-- 🛢 &nbsp;  Php | Symfony | Doctrine | 
+- 💻 &nbsp;  <h6>HTML5 | CSS3 | Bootstrap | JavaScript | React.js | Redux.js </h6>
+- 🛢 &nbsp;  <h6>NodeJS | Express.js |Postgresql | Sequelize | MariaDB | Oracle </h6>
+- 🛢 &nbsp;  <h6>Php | Symfony | Doctrine </h6>
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">

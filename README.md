@@ -11,9 +11,9 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <hr />
 
 <h1><strong>⚡ Find me around the web ⚡</strong></h1>
-<h5>✅ cperlovan@gmail.com </h5>
-<h5>✅ www.linkedin.com/in/cperlovan </h5>
-<h5>✅ github.com/cperlovan </h5>
+<p>✅ cperlovan@gmail.com </p>
+<p>✅ www.linkedin.com/in/cperlovan </p>
+<p>✅ github.com/cperlovan </p>
 
 
 

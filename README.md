@@ -44,6 +44,15 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <img src="http://img.shields.io/badge/-doctrine-430098?style=flat&logo=dictrine&logoColor=white">
 
 
+<hr />
+<h1>👉<strong>Language</strong></h1>
+<h6> English: (lower Intermediate) </h6>
+<h6> Spanish: (native) </h6>
+
+<hr />
+<h1>👉<strong>Projects</strong></h1>
+
+
 
 ![datacenter](https://user-images.githubusercontent.com/21959363/193178554-7c570a7b-b96b-4567-9193-ebb015ee9f17.png)
 

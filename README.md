@@ -39,7 +39,7 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <img src="http://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white">
 <img src="http://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel&logoColor=red">
 <img src="http://img.shields.io/badge/-Symfony-black?style=flat&logo=Symfony&logoColor=white">
-<img src="https://img.shields.io/badge/-Oracle-3C873A?style=flat&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/-Oracle-red?style=flat&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgresSQL-F29111?style=flat&logo=postgresql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-MariaDB-F1502F?style=flat&logo=MariaDB&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Doctrine ORM-430098?style=flat&logo=doctrineORM&logoColor=white">

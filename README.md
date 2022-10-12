@@ -39,13 +39,14 @@ Developing web applications has been a passion for me. I enjoy creating and faci
 <img src="http://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white">
 <img src="http://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel&logoColor=red">
 <img src="http://img.shields.io/badge/-Symfony-black?style=flat&logo=Symfony&logoColor=white">
-<img src="https://img.shields.io/badge/-Oracle-red?style=flat&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/-Oracle-white?style=flat&logo=Oracle&logoColor=red">
 <img src="https://img.shields.io/badge/-PostgresSQL-F29111?style=flat&logo=postgresql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-MariaDB-F1502F?style=flat&logo=MariaDB&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Doctrine ORM-430098?style=flat&logo=doctrineORM&logoColor=white">
 <img src="http://img.shields.io/badge/-Eloquent ORM-orange?style=flat&logo=eloquent&logoColor=white">
 <img src="http://img.shields.io/badge/-Visual Studio Code-430098?style=flat&logo=visualStudioCode&logoColor=white">
 <img src="http://img.shields.io/badge/-SQLite-430098?style=flat&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/-Angular-white?style=flat&logo=angular&logoColor=red">
 
 
 <hr />
